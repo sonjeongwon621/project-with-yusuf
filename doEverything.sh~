@@ -1,0 +1,7 @@
+#!/bin/bash
+
+scriptDir="$(realpath $(dirname "$0"))" # get the path to this script itself
+
+sudo echo 'Authorizing sudo.'
+
+python ./DemARK_BufferStockSaving-Copy1.py
