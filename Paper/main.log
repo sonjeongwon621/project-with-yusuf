@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.30)  17 DEC 2019 17:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.30)  17 DEC 2019 18:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -346,29 +346,45 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibparsep=\skip53
 \bibitemsep=\skip54
 \biblabelsep=\skip55
-) (./main.aux)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count141
+\Gm@cntv=\count142
+\c@Gm@tempcnt=\count143
+\Gm@bindingoffset=\dimen128
+\Gm@wd@mp=\dimen129
+\Gm@odd@mp=\dimen130
+\Gm@even@mp=\dimen131
+\Gm@layoutwidth=\dimen132
+\Gm@layoutheight=\dimen133
+\Gm@layouthoffset=\dimen134
+\Gm@layoutvoffset=\dimen135
+\Gm@dimlist=\toks26
+)
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 \AtBeginShipoutBox=\box32
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -376,7 +392,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 32.
+Package hyperref Info: Link coloring ON on input line 33.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
@@ -384,81 +400,189 @@ Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count141
+\c@section@level=\count144
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-\c@maskedRefs=\count142
+\c@maskedRefs=\count145
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: legalpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 867.24002pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=1011.78pt
+* \textwidth=469.75502pt
+* \textheight=867.24002pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
- []
-
-
-Overfull \hbox (4.06334pt too wide) in paragraph at lines 42--43
-[]\TU/lmr/bx/n/10 Consumption/income parallel:\TU/lmr/m/n/10 Aggregate consumpt
-ion parallels growth
- []
-
-
-Overfull \hbox (1.41pt too wide) in paragraph at lines 43--44
-\TU/lmr/m/n/10 sumption is far from current income. This implies the consumptio
-n/income
  []
 
 [1
 
-] (./Equations/FiniteHorizon.tex
-Underfull \hbox (badness 10000) in paragraph at lines 49--1
+] (./Equations/Setup.tex
+Underfull \hbox (badness 10000) in paragraph at lines 54--1
 
  []
 
-) (./Equations/InfiniteHorizon.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--1
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-) (./Equations/EulerEquation.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--1
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 26--56
+
+ []
+
+(./Equations/EulerEquation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 57--1
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+(./Equations/logEulerEquation.tex
+Underfull \hbox (badness 10000) in paragraph at lines 66--1
 
  []
 
 ) [2]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
 File: Figures/Figure1a.png Graphic file (type bmp)
 <Figures/Figure1a.png>
- [3] (./Tables/table1.tex) [4] (./main.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
- [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+File: Figures/Figure5a.png Graphic file (type bmp)
+<Figures/Figure5a.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+[3]
+File: Figures/Figure5b.png Graphic file (type bmp)
+<Figures/Figure5b.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+
+ []
+
+File: Figures/Figure5c.png Graphic file (type bmp)
+<Figures/Figure5c.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+[4] (./Tables/table1.tex) [5] (./main.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 127.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 127.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4413ABD8369A61AFB27721DD4AA43C7A.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
+(rerunfilecheck)             Checksum: 7F04C63C1F65FA903C73B7EF7238C24A.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
  ) 
 Here is how much of TeX's memory you used:
- 10606 strings out of 492909
- 150284 string characters out of 6132923
- 264148 words of memory out of 5000000
- 14546 multiletter control sequences out of 15000+600000
- 7920 words of font info for 36 fonts, out of 8000000 for 9000
+ 11073 strings out of 492909
+ 157175 string characters out of 6132923
+ 277069 words of memory out of 5000000
+ 15003 multiletter control sequences out of 15000+600000
+ 7936 words of font info for 38 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 33i,10n,45p,573b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,10n,45p,669b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (6 pages).
